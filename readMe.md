@@ -4,8 +4,9 @@
 ## Animation
 > Rendered by Blender
 
-| Wind |
+| Result |
 :-:
+| Wind |
 | ![Anim](readMe/Anim_01.gif) |
 | Collsion with Ground |
 | ![Anim](readMe/Anim_02.gif) |
