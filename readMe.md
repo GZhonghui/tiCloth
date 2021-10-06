@@ -20,7 +20,7 @@ It will generate ply/obj files in your current folder
 | ![Anim](readMe/Anim_02.gif) |
 | Collsion with Sphere |
 | ![Anim](readMe/Anim_03.gif) |
-| |
+| 😎Taichi is Awesome😎 |
 | ![Anim](readMe/Anim_04.gif) |
 
 ## Reference
