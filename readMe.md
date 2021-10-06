@@ -10,3 +10,5 @@
 | ![Anim](readMe/Anim_01.gif) |
 | Collsion with Ground |
 | ![Anim](readMe/Anim_02.gif) |
+| Collsion with Sphere |
+| ![Anim](readMe/Anim_03.gif) |
