@@ -4,11 +4,13 @@
 ## Run
 ```
 >> cd Source
->> python Main_xx.py 
+>> python Main_xx.py
+It will generate ply/obj files in your current folder
 ```
 
 ## Animation
-> The Following Animations are Rendered by Blender
+> The Following Animations are Rendered by Blender  
+> Blender Version: 2.93.0
 
 | Result |
 :-:
@@ -18,6 +20,8 @@
 | ![Anim](readMe/Anim_02.gif) |
 | Collsion with Sphere |
 | ![Anim](readMe/Anim_03.gif) |
+| |
+| ![Anim](readMe/Anim_04.gif) |
 
 ## Reference
 [https://graphics.stanford.edu/~mdfisher/cloth.html](https://graphics.stanford.edu/~mdfisher/cloth.html)
